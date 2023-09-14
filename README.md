@@ -129,6 +129,7 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
     | Iniciante | Testes de Integração |
     | Iniciante | Testes Unitários |
     | Iniciante | Testes Funcionais |
+    | Iniciante | SonarQube |
 
 - Padrões de Arquiteturas:
     | Nível | Habilidade |
