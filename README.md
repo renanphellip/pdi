@@ -6,7 +6,7 @@
 - **Cargo Atual:** Analista de Engenharia de TI Junior no Itaú Unibanco
 - **Data de Início:** 11/07/2022
 - **Tempo de empresa:** 1 ano e 2 meses
-- **Data de Revisão do PDI:** 13/09/2023
+- **Data de Revisão do PDI:** 04/12/2023
 
 ## Visão Geral
 - [x] Definir minha visão de longo prazo: Ser referência em DevOps, ajudando a equipe a alcançar entregas contínuas eficazes e seguras.
@@ -140,11 +140,11 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 
 ## Plano de Ação
 ### Desenvolvimento Profissional
-- [ ] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
+- [x] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
 - [ ] Contribuir toda sprint com uma documentação interna do produto do time.
 - [ ] Fazer um meetup por release para a squad.
 - [ ] Todo ano trazer algum conhecimento técnico para a Comunidade do banco.
-- [ ] Concluir o treinamento oficial da AWS Certified Solutions Architect Associate até 11/2023.
+- [ ] Concluir o treinamento oficial da AWS Certified Solutions Architect Associate até 12/2023.
 - [ ] Concluir o treinamento oficial da AWS Certified DevOps Engineer Professional até 07/2024.
 
 ### Desenvolvimento Pessoal
@@ -153,7 +153,7 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - [ ] Atingir imersão total no inglês até 12/2023.
 
 ### Desenvolvimento de Habilidades Técnicas
-- [ ] Realizar um treinamento complementar na Udemy para a AWS Certified Solutions Architect Associate até 11/2023.
+- [ ] Realizar um treinamento complementar na Udemy para a AWS Certified Solutions Architect Associate até 12/2023.
 - [ ] Concluir o curso Python Base da LINUXtips até 06/2024.
 - [ ] Realizar um treinamento complementar na Udemy para a AWS Certified DevOps Engineer Professional até 07/2024.
 
@@ -163,22 +163,22 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - [ ] Participar de um curso de liderança até 12/2024.
 
 ## Monitoramento e Avaliação
-- [x] Revisar o progresso do PDI a cada 2 meses.
+- [x] Revisar o progresso do PDI todo mês.
 - [x] Atualizar o registro das atividades concluídas e resultados alcançados regularmente.
 
 ## Suporte e Feedback
-- [x] Buscar feedback com a gerência, liderança e pares a cada 2 meses.
+- [x] Buscar feedback com a gerência, liderança e pares todo mês.
 - [x] Manter contato regular com um mentor para orientação.
 
 ## Revisão do PDI
-- [x] Agendar reuniões de revisão do PDI com a coordenação a cada três meses.
+- [x] Agendar reuniões de revisão do PDI com a coordenação todo mês.
 - [x] Ajustar metas e ações conforme a evolução da carreira e dos objetivos pessoais.
 
 ## Compromisso
 - [x] Comprometo-me a seguir este PDI para alcançar meus objetivos de carreira e desenvolvimento pessoal.
 
 ## Data de Revisão Futura
-- [x] Agendar a próxima revisão do PDI para 14/09/2023.
+- [ ] Agendar a próxima revisão do PDI para 08/01/2024.
 
 ---
 
