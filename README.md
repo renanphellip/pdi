@@ -5,7 +5,7 @@
 - **Formação:** Tecnólogo em Segurança da Informação pela FATEC Araraquara
 - **Cargo Atual:** Analista de Engenharia de TI Junior no Itaú Unibanco
 - **Data de Início:** 11/07/2022
-- **Tempo de empresa:** 1 ano e 2 meses
+- **Tempo de empresa:** 1 ano e 5 meses
 - **Data de Revisão do PDI:** 04/12/2023
 
 ## Visão Geral
