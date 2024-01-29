@@ -5,8 +5,8 @@
 - **Formação:** Tecnólogo em Segurança da Informação pela FATEC Araraquara
 - **Cargo Atual:** Analista de Engenharia de TI Junior no Itaú Unibanco
 - **Data de Início:** 11/07/2022
-- **Tempo de empresa:** 1 ano e 5 meses
-- **Data de Revisão do PDI:** 04/12/2023
+- **Tempo de empresa:** 1 ano e 7 meses
+- **Data de Revisão do PDI:** 29/01/2024
 
 ## Visão Geral
 - [x] Definir minha visão de longo prazo: Ser referência em DevOps, ajudando a equipe a alcançar entregas contínuas eficazes e seguras.
@@ -14,19 +14,18 @@
 ## Objetivos
 ### Objetivos Profissionais
 - [ ] Metas de Curto Prazo:
-    - [ ] Ser promovido para o nível Pleno até 12/2023.
-    - [ ] Obter a certificação AWS Certified Solutions Architect Associate até 12/2023.
-    - [ ] Obter a certificação AWS Certified DevOps Engineer Professional até 08/2024.
-- [ ] Metas de Médio Prazo:
-    - [ ] Aprimorar minhas habilidades de liderança até 06/2025.
-    - [ ] Alcançar o nível Senior até 12/2025.
-- [ ] Meta de Longo Prazo: Alcançar boa remuneração trabalhando remoto apenas 4 horas por dia até 01/2030.
+    - [ ] Obter a certificação AWS Certified Developer Associate até 04/2024.
+    - [ ] Ser promovido para o nível Pleno até 09/2024.
+- [ ] Meta de Médio Prazo:
+    - [ ] Desenvolver habilidades de liderança até 06/2025.
+- [ ] Meta de Longo Prazo:
+    - [ ] Alcançar boa remuneração trabalhando remoto apenas 4 horas por dia até 01/2030. :sweat_smile:
 
 ### Objetivos Pessoais
 - [ ] Metas de Curto Prazo:
     - [x] Melhorar a gestão do tempo para equilibrar melhor o trabalho e a vida pessoal. 
-    - [ ] Definir objetivo pessoal de longo prazo até 06/2024.
     - [ ] Alcançar o nível básico de comunicação oral em inglês até 12/2024.
+    - [ ] Definir objetivo pessoal de longo prazo até 06/2024.
 - [ ] Metas de Médio Prazo:
     - [ ] Alcançar a fluência na comunicação oral em inglês até 06/2026.
 
@@ -36,9 +35,9 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Linguagens Gerais (Script / Programação / Marcação):
     | Nível | Habilidade |
     | - | - |
-    | Intermediário | Python |
-    | Iniciante | Node.js |
     | Iniciante | Java |
+    | Intermediário | Typescript (Node.js) |
+    | Intermediário | Python |
     | Intermediário | Bash Scripting |
     | Intermediário | Markdown |
 
@@ -56,16 +55,16 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Plataformas de Controle de Versão:
     | Nível | Habilidade |
     | - | - |
-    | Intermediário | Azure Repos |
-    | Iniciante | Github |
     | Iniciante | Gitlab |
+    | Intermediário | Azure Repos |
+    | Intermediário | Github |
 
 - Containers, Orquestradores e Registries:
     | Nível | Habilidade |
     | - | - |
-    | Intermediário | Docker |
     | Iniciante | Kubernetes / Openshift |
     | Iniciante | EKS / AKS |
+    | Intermediário | Docker |
 
 - Provedores de Nuvem:
     | Nível | Habilidade |
@@ -98,16 +97,16 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Plataformas de CI/CD:
     | Nível | Habilidade |
     | - | - |
+    | Iniciante | Gitlab CI |
     | Intermediário | Azure DevOps |
     | Intermediário | Github Actions |
-    | Iniciante | Gitlab CI |
 
 - Gerenciamento de Artefatos:
     | Nível | Habilidade |
     | - | - |
+    | Iniciante | JFrog Artifactory |
     | Intermediário | Azure Artifacts |
-    | Intermediário | Nexus |
-    | Iniciante | Artifactory |
+    | Intermediário | Nexus Artifactory |
 
 - Banco de Dados Relacionais:
     | Nível | Habilidade |
@@ -119,48 +118,44 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Conceitos sobre APIs:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | OpenAPI 3 |
     | Iniciante | AWS API Gateway |
-    | Iniciante | REST |
+    | Intermediário | REST |
+    | Intermediário | OpenAPI 3 |
 
 - Testes e Qualidade:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | Testes de Integração |
-    | Iniciante | Testes Unitários |
-    | Iniciante | Testes Funcionais |
     | Iniciante | SonarQube |
+    | Iniciante | Testes de Integração |
+    | Intermediário | Testes Unitários |
+    | Intermediário | Testes Funcionais |
 
 - Padrões de Arquiteturas:
     | Nível | Habilidade |
     | - | - |
     | Iniciante | Aplicações Monolíticas |
-    | Iniciante | Microsserviços |
     | Iniciante | Serverless |
+    | Intermediário | Microsserviços |
 
 ## Plano de Ação
 ### Desenvolvimento Profissional
 - [x] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
-- [ ] Contribuir toda sprint com uma documentação interna do produto do time.
+- [ ] Contribuir toda sprint com a documentação técnica do produto ou interna do time.
 - [ ] Fazer um meetup por release para a squad.
 - [ ] Todo ano trazer algum conhecimento técnico para a Comunidade do banco.
-- [ ] Concluir o treinamento oficial da AWS Certified Solutions Architect Associate até 12/2023.
-- [ ] Concluir o treinamento oficial da AWS Certified DevOps Engineer Professional até 07/2024.
 
 ### Desenvolvimento Pessoal
 - [x] Organizar a rotina de trabalho, estudo e treino diariamente.
 - [x] Expandir o vocabulário em inglês com pelo menos 30 palavras novas por semana.
-- [ ] Atingir imersão total no inglês até 12/2023.
+- [ ] Atingir imersão total no inglês até 03/2024.
 
 ### Desenvolvimento de Habilidades Técnicas
-- [ ] Realizar um treinamento complementar na Udemy para a AWS Certified Solutions Architect Associate até 12/2023.
-- [ ] Concluir o curso Python Base da LINUXtips até 06/2024.
-- [ ] Realizar um treinamento complementar na Udemy para a AWS Certified DevOps Engineer Professional até 07/2024.
+- [ ] Concluir um treinamento na Udemy para a AWS Certified Developer Associate até 04/2023.
+- [ ] Concluir o curso Python Base da LINUXtips até 12/2024.
 
 ### Desenvolvimento de Habilidades de Liderança
-- [ ] Contribuir mais ativamente com a tríade em suas responsabilidades, a começar pelas cerimônias.
-- [ ] Atuar como mentor de um membro junior da equipe até 06/2024.
-- [ ] Participar de um curso de liderança até 12/2024.
+- [x] Ajudar proativamente os membros da equipe.
+- [ ] Buscar mais protagonismo tomando mais responsabilidades sobre as demandas do time.
 
 ## Monitoramento e Avaliação
 - [x] Revisar o progresso do PDI todo mês.
@@ -176,9 +171,6 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 
 ## Compromisso
 - [x] Comprometo-me a seguir este PDI para alcançar meus objetivos de carreira e desenvolvimento pessoal.
-
-## Data de Revisão Futura
-- [ ] Agendar a próxima revisão do PDI para 08/01/2024.
 
 ---
 
