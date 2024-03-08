@@ -5,8 +5,8 @@
 - **Formação:** Tecnólogo em Segurança da Informação pela FATEC Araraquara
 - **Cargo Atual:** Analista de Engenharia de TI Junior no Itaú Unibanco
 - **Data de Início:** 11/07/2022
-- **Tempo de empresa:** 1 ano e 7 meses
-- **Data de Revisão do PDI:** 29/01/2024
+- **Tempo de empresa:** 1 ano e 8 meses
+- **Data de Revisão do PDI:** 08/03/2024
 
 ## Visão Geral
 - [x] Definir minha visão de longo prazo: Ser referência em DevOps, ajudando a equipe a alcançar entregas contínuas eficazes e seguras.
@@ -14,8 +14,8 @@
 ## Objetivos
 ### Objetivos Profissionais
 - [ ] Metas de Curto Prazo:
-    - [ ] Obter a certificação AWS Certified Developer Associate até 04/2024.
-    - [ ] Ser promovido para o nível Pleno até 09/2024.
+    - [ ] Dominar as principais funcionalidades do serviço de AWS API Gateway do tipo RESTful até 06/2024.
+    - [ ] Ser reconhecido como nível Pleno até 09/2024.
 - [ ] Meta de Médio Prazo:
     - [ ] Desenvolver habilidades de liderança até 06/2025.
 - [ ] Meta de Longo Prazo:
@@ -140,17 +140,16 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 ## Plano de Ação
 ### Desenvolvimento Profissional
 - [x] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
-- [ ] Contribuir toda sprint com a documentação técnica do produto ou interna do time.
+- [x] Contribuir toda sprint com a documentação técnica do produto ou interna do time.
 - [ ] Fazer um meetup por release para a squad.
 - [ ] Todo ano trazer algum conhecimento técnico para a Comunidade do banco.
 
 ### Desenvolvimento Pessoal
 - [x] Organizar a rotina de trabalho, estudo e treino diariamente.
 - [x] Expandir o vocabulário em inglês com pelo menos 30 palavras novas por semana.
-- [ ] Atingir imersão total no inglês até 03/2024.
+- [ ] Atingir imersão total no inglês até 05/2024.
 
 ### Desenvolvimento de Habilidades Técnicas
-- [ ] Concluir um treinamento na Udemy para a AWS Certified Developer Associate até 04/2023.
 - [ ] Concluir o curso Python Base da LINUXtips até 12/2024.
 
 ### Desenvolvimento de Habilidades de Liderança
