@@ -1,35 +1,54 @@
 # Plano de Desenvolvimento Individual (PDI)
 
 ## Informações Pessoais
+
 - **Nome:** Renan Phellip Santana de Morais
 - **Formação:** Tecnólogo em Segurança da Informação pela FATEC Araraquara
 - **Cargo Atual:** Analista de Engenharia de TI Junior no Itaú Unibanco
 - **Data de Início:** 11/07/2022
 - **Tempo de empresa:** 1 ano e 8 meses
-- **Data de Revisão do PDI:** 08/03/2024
+- **Data de Revisão do PDI:** 25/03/2024
 
 ## Visão Geral
-- [x] Definir minha visão de longo prazo: Ser referência em DevOps, ajudando a equipe a alcançar entregas contínuas eficazes e seguras.
+
+- [x] Continuar me aprimorando e fazer uso de minhas habilidades para criar e disponibilizar um produto de muito valor para o negócio com alta satisfação dos usuários.
 
 ## Objetivos
+
 ### Objetivos Profissionais
-- [ ] Metas de Curto Prazo:
-    - [ ] Dominar as principais funcionalidades do serviço de AWS API Gateway do tipo RESTful até 06/2024.
-    - [ ] Ser reconhecido como nível Pleno até 09/2024.
-- [ ] Meta de Médio Prazo:
-    - [ ] Desenvolver habilidades de liderança até 06/2025.
-- [ ] Meta de Longo Prazo:
-    - [ ] Alcançar boa remuneração trabalhando remoto apenas 4 horas por dia até 01/2030. :sweat_smile:
+
+- [ ] Utilizar em nosso produto alguma tecnologia, ferramenta ou metodologia sugerida por mim para aprimorar a jornada de exposição de APIs ou a experiência do usuário.
+- [ ] Ser reconhecido como nível Pleno até 09/2024.
 
 ### Objetivos Pessoais
-- [ ] Metas de Curto Prazo:
-    - [x] Melhorar a gestão do tempo para equilibrar melhor o trabalho e a vida pessoal. 
-    - [ ] Alcançar o nível básico de comunicação oral em inglês até 12/2024.
-    - [ ] Definir objetivo pessoal de longo prazo até 06/2024.
-- [ ] Metas de Médio Prazo:
-    - [ ] Alcançar a fluência na comunicação oral em inglês até 06/2026.
+
+- [x] Manter um equilíbrio saudável entre vida profissional e pessoal, dedicando tempo suficiente ao lazer, família e hobbies.
+- [ ] Alcançar o nível básico de comunicação oral em inglês até 12/2024.
+
+## Plano de Ação
+
+### Desenvolvimento Profissional
+
+- [x] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
+- [x] Contribuir toda sprint com a documentação técnica do produto ou interna do time.
+- [ ] Criar um sistema de contribuição fácil, eficiente e rastreável em repositórios da experiência até 06/2024.
+- [ ] Fazer um meetup por release para a squad.
+- [ ] Todo ano trazer algum conhecimento técnico para a Comunidade do banco.
+
+### Desenvolvimento Pessoal
+
+- [x] Organizar a rotina de trabalho, estudo e treino diariamente.
+- [x] Expandir o vocabulário em inglês com pelo menos 30 palavras novas por semana.
+- [ ] Atingir imersão total no inglês até 05/2024.
+
+### Desenvolvimento de Habilidades Técnicas
+
+- [x] Evoluir o projeto [OAS CLI](https://github.com/renanphellip/oas-cli) continuamente durante os finais de semana.
+- [ ] Dominar as principais funcionalidades do serviço de AWS API Gateway do tipo RESTful até 07/2024.
+- [ ] Concluir o curso Python Base da LINUXtips até 12/2024.
 
 ## Autoavaliação de Competências
+
 Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Especialista) em cada tema:
 
 - Linguagens Gerais (Script / Programação / Marcação):
@@ -137,38 +156,23 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
     | Iniciante | Serverless |
     | Intermediário | Microsserviços |
 
-## Plano de Ação
-### Desenvolvimento Profissional
-- [x] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
-- [x] Contribuir toda sprint com a documentação técnica do produto ou interna do time.
-- [ ] Fazer um meetup por release para a squad.
-- [ ] Todo ano trazer algum conhecimento técnico para a Comunidade do banco.
-
-### Desenvolvimento Pessoal
-- [x] Organizar a rotina de trabalho, estudo e treino diariamente.
-- [x] Expandir o vocabulário em inglês com pelo menos 30 palavras novas por semana.
-- [ ] Atingir imersão total no inglês até 05/2024.
-
-### Desenvolvimento de Habilidades Técnicas
-- [ ] Concluir o curso Python Base da LINUXtips até 12/2024.
-
-### Desenvolvimento de Habilidades de Liderança
-- [x] Ajudar proativamente os membros da equipe.
-- [ ] Buscar mais protagonismo tomando mais responsabilidades sobre as demandas do time.
-
 ## Monitoramento e Avaliação
+
 - [x] Revisar o progresso do PDI todo mês.
 - [x] Atualizar o registro das atividades concluídas e resultados alcançados regularmente.
 
 ## Suporte e Feedback
+
 - [x] Buscar feedback com a gerência, liderança e pares todo mês.
 - [x] Manter contato regular com um mentor para orientação.
 
 ## Revisão do PDI
+
 - [x] Agendar reuniões de revisão do PDI com a coordenação todo mês.
 - [x] Ajustar metas e ações conforme a evolução da carreira e dos objetivos pessoais.
 
 ## Compromisso
+
 - [x] Comprometo-me a seguir este PDI para alcançar meus objetivos de carreira e desenvolvimento pessoal.
 
 ---
