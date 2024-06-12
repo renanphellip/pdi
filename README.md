@@ -9,6 +9,30 @@
 - **Tempo de empresa:** 1 ano e 8 meses
 - **Data de Revisão do PDI:** 25/03/2024
 
+## Minha Jornada de Carreira
+
+```mermaid
+gantt
+dateFormat  MM/YYYY
+title Minha Jornada de Carreira
+
+section JN Moura Informática
+Analista de Suporte Técnico : 07/2015 , 05/2018
+
+section Fatec Araraquara
+Segurança da Informação : 08/2018 , 07/2022
+
+section DXC Technology
+QA (Estágio) : 05/2019 , 07/2020
+Analista DevOps (Estágio) : 08/2020 , 11/2020
+Analista DevOps Trainee : 11/2020 , 06/2021
+Analista DevOps Junior : 06/2021 , 03/2022
+Analista DevOps Pleno : 03/2022 , 06/2022
+
+section Itaú Unibanco
+Analista de Engenharia de TI Junior : 07/2022 , 06/2024
+```
+
 ## Visão Geral
 
 - [x] Continuar me aprimorando e fazer uso de minhas habilidades para criar e disponibilizar um produto de muito valor para o negócio com alta satisfação dos usuários.
