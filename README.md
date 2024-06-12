@@ -6,15 +6,15 @@
 - **Formação:** Tecnólogo em Segurança da Informação pela FATEC Araraquara
 - **Cargo Atual:** Analista de Engenharia de TI Junior no Itaú Unibanco
 - **Data de Início:** 11/07/2022
-- **Tempo de empresa:** 1 ano e 8 meses
-- **Data de Revisão do PDI:** 25/03/2024
+- **Tempo de empresa:** 1 ano e 11 meses
+- **Data de Revisão do PDI:** 12/06/2024
 
 ## Minha Jornada de Carreira
 
 ```mermaid
 gantt
 dateFormat  MM/YYYY
-title Minha Jornada de Carreira
+axisFormat %m/%Y
 
 section JN Moura Informática
 Analista de Suporte Técnico : 07/2015 , 05/2018
@@ -35,19 +35,19 @@ Analista de Engenharia de TI Junior : 07/2022 , 06/2024
 
 ## Visão Geral
 
-- [x] Continuar me aprimorando e fazer uso de minhas habilidades para criar e disponibilizar um produto de muito valor para o negócio com alta satisfação dos usuários.
+- [x] Ser referência para minha equipe, ajudando a alcançar entregas contínuas, eficazes e seguras, além de agregar através de nosso produto, muito valor para o negócio com alta satisfação dos usuários.
 
 ## Objetivos
 
 ### Objetivos Profissionais
 
-- [ ] Utilizar em nosso produto alguma tecnologia, ferramenta ou metodologia sugerida por mim para aprimorar a jornada de exposição de APIs ou a experiência do usuário.
+- [x] Utilizar em nosso produto alguma tecnologia, ferramenta ou metodologia sugerida por mim para aprimorar a jornada de exposição de APIs ou a experiência do usuário.
 - [ ] Ser reconhecido como nível Pleno até 09/2024.
 
 ### Objetivos Pessoais
 
 - [x] Manter um equilíbrio saudável entre vida profissional e pessoal, dedicando tempo suficiente ao lazer, família e hobbies.
-- [ ] Alcançar o nível básico de comunicação oral em inglês até 12/2024.
+- [ ] Alcançar o nível básico de comunicação oral em inglês até 03/2025.
 
 ## Plano de Ação
 
@@ -55,20 +55,21 @@ Analista de Engenharia de TI Junior : 07/2022 , 06/2024
 
 - [x] Entender quais os requisitos esperados de um nível Pleno em nossa Comunidade até 09/2023.
 - [x] Contribuir toda sprint com a documentação técnica do produto ou interna do time.
-- [ ] Criar um sistema de contribuição fácil, eficiente e rastreável em repositórios da experiência até 06/2024.
+- [x] Criar um sistema de contribuição fácil, eficiente e rastreável em repositórios da experiência até 06/2024.
+- [x] Utilizar IA para fazer entregas com mais agilidade e qualidade.
 - [ ] Fazer um meetup por release para a squad.
 - [ ] Todo ano trazer algum conhecimento técnico para a Comunidade do banco.
 
 ### Desenvolvimento Pessoal
 
 - [x] Organizar a rotina de trabalho, estudo e treino diariamente.
-- [x] Expandir o vocabulário em inglês com pelo menos 30 palavras novas por semana.
-- [ ] Atingir imersão total no inglês até 05/2024.
+- [ ] Expandir o vocabulário em inglês com pelo menos 30 palavras novas por semana.
+- [ ] Atingir imersão total no inglês até 12/2024.
 
 ### Desenvolvimento de Habilidades Técnicas
 
 - [x] Evoluir o projeto [OAS CLI](https://github.com/renanphellip/oas-cli) continuamente durante os finais de semana.
-- [ ] Dominar as principais funcionalidades do serviço de AWS API Gateway do tipo RESTful até 07/2024.
+- [x] Utilizar IA para auxiliar nos estudos e adquirir novos aprendizados.
 - [ ] Concluir o curso Python Base da LINUXtips até 12/2024.
 
 ## Autoavaliação de Competências
@@ -78,17 +79,17 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Linguagens Gerais (Script / Programação / Marcação):
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | Java |
+    | Avançado | Python |
+    | Avançado | Bash Scripting |
+    | Avançado | Markdown |
     | Intermediário | Typescript (Node.js) |
-    | Intermediário | Python |
-    | Intermediário | Bash Scripting |
-    | Intermediário | Markdown |
+    | Iniciante | Java |
 
 - Sistemas Operacionais:
     | Nível | Habilidade |
     | - | - |
+    | Intermediário | Linux (Ubuntu, RHEL, CentOS) |
     | Iniciante | Windows |
-    | Iniciante | Linux (Ubuntu, RHEL, CentOS) |
 
 - Sistemas de Controle de Versão:
     | Nível | Habilidade |
@@ -98,22 +99,22 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Plataformas de Controle de Versão:
     | Nível | Habilidade |
     | - | - |
+    | Avançado | Github |
+    | Avançado | Azure Repos |
     | Iniciante | Gitlab |
-    | Intermediário | Azure Repos |
-    | Intermediário | Github |
 
 - Containers, Orquestradores e Registries:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | Kubernetes / Openshift |
-    | Iniciante | EKS / AKS |
     | Intermediário | Docker |
+    | Iniciante | EKS / AKS |
+    | Iniciante | Kubernetes / Openshift |
 
 - Provedores de Nuvem:
     | Nível | Habilidade |
     | - | - |
+    | Intermediário | AWS |
     | Iniciante | Azure |
-    | Iniciante | AWS |
 
 - Conceitos de Rede, Segurança e Protocolos:
     | Nível | Habilidade |
@@ -128,57 +129,57 @@ Considerando a escala de progressão (Iniciante, Intermediário, Avançado, Espe
 - Serviços Serverless:
     | Nível | Habilidade |
     | - | - |
+    | Intermediário | AWS Lambda |
     | Iniciante | Azure Functions |
-    | Iniciante | AWS Lambda |
 
 - Infraestrutura como Código:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | Terraform |
+    | Intermediário | Terraform |
     | Iniciante | AWS CloudFormation |
 
 - Plataformas de CI/CD:
     | Nível | Habilidade |
     | - | - |
+    | Avançado | Github Actions |
+    | Avançado | Azure DevOps |
     | Iniciante | Gitlab CI |
-    | Intermediário | Azure DevOps |
-    | Intermediário | Github Actions |
 
 - Gerenciamento de Artefatos:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | JFrog Artifactory |
     | Intermediário | Azure Artifacts |
     | Intermediário | Nexus Artifactory |
+    | Iniciante | JFrog Artifactory |
 
 - Banco de Dados Relacionais:
     | Nível | Habilidade |
     | - | - |
+    | Iniciante | MySQL |
     | Iniciante | Microsoft SQL Server |
     | Iniciante | Oracle |
-    | Iniciante | MySQL |
 
 - Conceitos sobre APIs:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | AWS API Gateway |
+    | Intermediário | AWS API Gateway |
     | Intermediário | REST |
     | Intermediário | OpenAPI 3 |
 
 - Testes e Qualidade:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | SonarQube |
-    | Iniciante | Testes de Integração |
+    | Intermediário | Testes de Integração |
     | Intermediário | Testes Unitários |
     | Intermediário | Testes Funcionais |
+    | Iniciante | SonarQube |
 
 - Padrões de Arquiteturas:
     | Nível | Habilidade |
     | - | - |
-    | Iniciante | Aplicações Monolíticas |
-    | Iniciante | Serverless |
     | Intermediário | Microsserviços |
+    | Intermediário | Serverless |
+    | Iniciante | Aplicações Monolíticas |
 
 ## Monitoramento e Avaliação
 
